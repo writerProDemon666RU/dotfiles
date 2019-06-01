@@ -1,4 +1,7 @@
 ![VINIOCHEN](https://raw.githubusercontent.com/writerProDemon666RU/dotfiles/master/thinkpad_A275.png)
+
+```shell
+$ tree .
 .
 ├── dmenu
 │   └── config.h
@@ -23,3 +26,4 @@
 └── Xresources
 
 4 directories, 17 files
+```
