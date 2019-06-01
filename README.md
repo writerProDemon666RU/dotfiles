@@ -3,6 +3,7 @@
 ```shell
 $ tree .
 .
+├── bootstrap.sh
 ├── dmenu
 │   └── config.h
 ├── dwm
@@ -10,6 +11,7 @@ $ tree .
 │   └── dwm-noborder-6.2.diff
 ├── fzf.install.sh
 ├── liquidprompt.install.sh
+├── opam.init.sh
 ├── README.md
 ├── ssh
 │   └── config
@@ -28,6 +30,7 @@ $ tree .
 ├── Xresources
 └── zshrc
 
-4 directories, 20 files
+4 directories, 22 files
+
 
 ```
