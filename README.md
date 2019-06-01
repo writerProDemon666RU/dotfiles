@@ -1,1 +1,1 @@
-![VINIOCHEN](thinkpad_A275?raw=true "Title")
+![VINIOCHEN](https://raw.githubusercontent.com/writerProDemon666RU/dotfiles/master/thinkpad_A275.png)
