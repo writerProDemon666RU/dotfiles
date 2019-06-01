@@ -9,7 +9,8 @@ $ tree .
 │   ├── config.h
 │   └── dwm-noborder-6.2.diff
 ├── fzf.install.sh
-├── README.txt
+├── liquidprompt.install.sh
+├── README.md
 ├── ssh
 │   └── config
 ├── st
@@ -19,11 +20,14 @@ $ tree .
 │   ├── st-clipboard-0.8.2.diff
 │   ├── st-font2-20190416-ba72400.diff
 │   └── st-xresources-20190105-3be4cf1.diff
-├── sublime_bootstrap.sh
+├── sublime.apt.install.sh
 ├── sublime.conf
+├── thinkpad_A275.png
 ├── tmux.conf
 ├── xinitrc
-└── Xresources
+├── Xresources
+└── zshrc
 
-4 directories, 17 files
+4 directories, 20 files
+
 ```
